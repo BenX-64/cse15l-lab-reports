@@ -1,5 +1,5 @@
 import './App.css';
-import MenuBar from './MenuBar'
+import MenuBar from './Menu/MenuBar'
 import React from 'react'
 
 class App extends React.Component{

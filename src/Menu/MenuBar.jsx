@@ -1,4 +1,5 @@
 import React from 'react'
+import './Menu.css'
 
 class MenuBar extends React.Component{
     constructor(props){
@@ -6,7 +7,7 @@ class MenuBar extends React.Component{
     }
     render(){
         return(
-            <div>
+            <div className = 'MenuBar'>
                 sup
             </div>
         );

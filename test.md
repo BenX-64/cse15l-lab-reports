@@ -5,7 +5,7 @@ wadu hek
 
 [very nice](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-![Image](./chikn.jpg)
+![Image](./assets/chikn.jpg)
 
 > Blockquote test
 - i

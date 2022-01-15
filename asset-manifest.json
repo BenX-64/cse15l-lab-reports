@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cse15l-lab-reports/static/css/main.59a3d6cb.css",
-    "main.js": "/cse15l-lab-reports/static/js/main.91b19182.js",
+    "main.js": "/cse15l-lab-reports/static/js/main.98e71284.js",
     "static/js/787.9997f2df.chunk.js": "/cse15l-lab-reports/static/js/787.9997f2df.chunk.js",
     "static/media/vscode.png": "/cse15l-lab-reports/static/media/vscode.8b094763a2bc390e8e87.png",
     "static/media/login.png": "/cse15l-lab-reports/static/media/login.2e8831cfd0d6e0ddd079.png",
@@ -15,11 +15,11 @@
     "static/media/powershell.png": "/cse15l-lab-reports/static/media/powershell.9a46df545dd5dd622f2a.png",
     "index.html": "/cse15l-lab-reports/index.html",
     "main.59a3d6cb.css.map": "/cse15l-lab-reports/static/css/main.59a3d6cb.css.map",
-    "main.91b19182.js.map": "/cse15l-lab-reports/static/js/main.91b19182.js.map",
+    "main.98e71284.js.map": "/cse15l-lab-reports/static/js/main.98e71284.js.map",
     "787.9997f2df.chunk.js.map": "/cse15l-lab-reports/static/js/787.9997f2df.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59a3d6cb.css",
-    "static/js/main.91b19182.js"
+    "static/js/main.98e71284.js"
   ]
 }

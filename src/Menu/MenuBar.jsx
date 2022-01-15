@@ -54,7 +54,7 @@ return (
                                 Lab Pages
                             </Button>
                             <Menu {...bindMenu(popupState)}>
-                                <MenuItem component = {Link} to='/test.html'>Lab 2 Markdown</MenuItem>
+                                <MenuItem component = {Link} to ='./lab-report-1-week-2.html'>Lab 2 Markdown</MenuItem>
                             </Menu>
                             </React.Fragment>
                         )}

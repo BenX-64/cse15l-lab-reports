@@ -8,12 +8,12 @@ class App extends React.Component{
   render(){
     return(
       <div className = 'App'>
-      <BrowserRouter basename={process.env.PUBLIC_URL}>
+      
         <Routes>
           <Route exact path="/" element={<Home />} />
           <Route exact path="/lab-reports/1" element = {<LabReport1 />} />
         </Routes>
-      </BrowserRouter>
+      
       </div>
     );
     }

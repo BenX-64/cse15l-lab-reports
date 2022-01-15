@@ -1,0 +1,18 @@
+.labreport{
+    max-width: 64rem;
+    padding: 2rem 6rem;
+    margin: 0 auto;
+    font-size: 1.1rem;
+    word-wrap: break-word;
+    box-sizing: border-box;
+    color: rgb(166, 158, 147);
+    height:100%;
+}
+
+.labText{
+    text-align:start
+}
+
+.labText a{
+    color:white;
+}

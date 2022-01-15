@@ -1,10 +1,8 @@
 import './App.css';
-import MenuBar from './Menu/MenuBar';
 import { BrowserRouter, Routes, Route, Redirect } from "react-router-dom";
-import Home from './Home';
 import React from 'react';
-import { ClassNames } from '@emotion/react';
-
+import Home from './Home';
+import LabReport1 from './lab-reports/lab-report-1';
 class App extends React.Component{
 
   render(){
@@ -13,6 +11,7 @@ class App extends React.Component{
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Home />} />
+          <Route path="/lab-reports/1" element = {<LabReport1 />} />
         </Routes>
       </BrowserRouter>
       </div>

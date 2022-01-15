@@ -9,7 +9,7 @@ class Home extends React.Component{
     return(
       <div className = "Home">
         <MenuBar />
-        supsdfffffffffffff
+        i dont know what to put on a home page
       </div>
     );
     }

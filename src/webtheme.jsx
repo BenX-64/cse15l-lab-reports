@@ -1,8 +1,6 @@
 import { createTheme } from '@mui/material/styles';
-
-
 const webtheme = createTheme({
-    shadows: ["none"],
+    
     palette: {
         primary: {
             light: '#757ce8',

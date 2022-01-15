@@ -22,7 +22,7 @@ return (
                     component="div"
                     sx={{ mr: 2, display: { xs: 'none', md: 'flex', color:'black'} }}
                 >
-                    CSE15L Lab Reports
+                    CSE15L Lab Reports // Ben Xia
                 </Typography>
                 <Box sx={{ flexGrow: 1, display: { xs: 'none', md: 'flex' } }}>
                     <Button
@@ -40,7 +40,7 @@ return (
                                 Lab Reports
                             </Button>
                             <Menu {...bindMenu(popupState)}>
-                                <MenuItem component = {Link} to='/lab-report-1'>Lab Report 1: Week 2</MenuItem>
+                                <MenuItem component = {Link} to='/lab-reports/1'>Lab Report 1: Week 2</MenuItem>
                             </Menu>
                             </React.Fragment>
                         )}
@@ -60,7 +60,7 @@ return (
                         )}
                     </PopupState>
                     <Button
-                        target="_blank" href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'
+                        target="_blank" href='https://github.com/BenX-64/cse15l-lab-reports'
                         sx={{ my: 2, color: 'black', display: 'block' }}
                     >
                         About

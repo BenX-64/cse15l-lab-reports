@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.59a3d6cb.css",
-    "main.js": "/static/js/main.45dfc3e4.js",
-    "static/js/787.9997f2df.chunk.js": "/static/js/787.9997f2df.chunk.js",
-    "static/media/vscode.png": "/static/media/vscode.8b094763a2bc390e8e87.png",
-    "static/media/login.png": "/static/media/login.2e8831cfd0d6e0ddd079.png",
-    "static/media/newterminal.png": "/static/media/newterminal.5e0176e1adea856d461e.png",
-    "static/media/sshtargets.png": "/static/media/sshtargets.205238efd8b386347ce9.png",
-    "static/media/scp.png": "/static/media/scp.8996dea678b2f24c4ab5.png",
-    "static/media/sshkey.png": "/static/media/sshkey.a12cd90d3f1d120752a3.png",
-    "static/media/sshconfig.png": "/static/media/sshconfig.7ba491fc78983c63c7d6.png",
-    "static/media/remote.png": "/static/media/remote.359c70b361a3b5c888b4.png",
-    "static/media/terminalsc.png": "/static/media/terminalsc.8a79cb5b389e48140dfd.png",
-    "static/media/powershell.png": "/static/media/powershell.9a46df545dd5dd622f2a.png",
-    "index.html": "/index.html",
-    "main.59a3d6cb.css.map": "/static/css/main.59a3d6cb.css.map",
-    "main.45dfc3e4.js.map": "/static/js/main.45dfc3e4.js.map",
-    "787.9997f2df.chunk.js.map": "/static/js/787.9997f2df.chunk.js.map"
+    "main.css": "/cse15l-lab-reports/static/css/main.59a3d6cb.css",
+    "main.js": "/cse15l-lab-reports/static/js/main.91b19182.js",
+    "static/js/787.9997f2df.chunk.js": "/cse15l-lab-reports/static/js/787.9997f2df.chunk.js",
+    "static/media/vscode.png": "/cse15l-lab-reports/static/media/vscode.8b094763a2bc390e8e87.png",
+    "static/media/login.png": "/cse15l-lab-reports/static/media/login.2e8831cfd0d6e0ddd079.png",
+    "static/media/newterminal.png": "/cse15l-lab-reports/static/media/newterminal.5e0176e1adea856d461e.png",
+    "static/media/sshtargets.png": "/cse15l-lab-reports/static/media/sshtargets.205238efd8b386347ce9.png",
+    "static/media/scp.png": "/cse15l-lab-reports/static/media/scp.8996dea678b2f24c4ab5.png",
+    "static/media/sshkey.png": "/cse15l-lab-reports/static/media/sshkey.a12cd90d3f1d120752a3.png",
+    "static/media/sshconfig.png": "/cse15l-lab-reports/static/media/sshconfig.7ba491fc78983c63c7d6.png",
+    "static/media/remote.png": "/cse15l-lab-reports/static/media/remote.359c70b361a3b5c888b4.png",
+    "static/media/terminalsc.png": "/cse15l-lab-reports/static/media/terminalsc.8a79cb5b389e48140dfd.png",
+    "static/media/powershell.png": "/cse15l-lab-reports/static/media/powershell.9a46df545dd5dd622f2a.png",
+    "index.html": "/cse15l-lab-reports/index.html",
+    "main.59a3d6cb.css.map": "/cse15l-lab-reports/static/css/main.59a3d6cb.css.map",
+    "main.91b19182.js.map": "/cse15l-lab-reports/static/js/main.91b19182.js.map",
+    "787.9997f2df.chunk.js.map": "/cse15l-lab-reports/static/js/787.9997f2df.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59a3d6cb.css",
-    "static/js/main.45dfc3e4.js"
+    "static/js/main.91b19182.js"
   ]
 }

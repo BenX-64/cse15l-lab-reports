@@ -9,7 +9,7 @@
 All expected values were taken from VSCode preview.
 ### Snippet 1
 Test: <br>
-![image](./assets/report-4/snip1-test.png)
+![image](./assets/report-4/snip1-test.png) <br>
 Expected: `['google.com, google.com, ucsd.edu]` <br>
 My implementation: <br>
 ![image](./assets/report-4/snip1-p.png)
@@ -21,7 +21,7 @@ Reviewed implementation: <br>
 ![image](./assets/report-4/snip1-r.png)
 ### Snippet 2
 Test: <br>
-![image](./assets/report-4/snip2-test.png)
+![image](./assets/report-4/snip2-test.png) <br>
 Expected: `[a.com, a.com(()), example.com]` <br>
 My implementation: <br>
 ![image](./assets/report-4/snip2-p.png)
@@ -33,7 +33,7 @@ Reviewed implementation: <br>
 ![image](./assets/report-4/snip2-r.png)
 ### Snippet 3
 Test: <br>
-![image](./assets/report-4/snip3-test.png)
+![image](./assets/report-4/snip3-test.png) <br>
 Expected: `[https://ucsd-cse15l-w22.github.io/]` <br>
 My Implementation: <br>
 ![image](./assets/report-4/snip3-p.png)

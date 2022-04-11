@@ -2,7 +2,7 @@
 
 ## Debugging
 
-[My implementation](https://github.com/BenX-64/markdown-parse)
+[My implementation](https://github.com/benjxia/markdown-parse)
 <br>
 [Reviewed implementation](https://github.com/5ean-github/markdown-parse)
 <br>
